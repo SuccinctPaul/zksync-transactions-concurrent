@@ -1,0 +1,7 @@
+[package]
+name = "zksync-transactions-concurrent"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+zksync = { git = "https://github.com/matter-labs/zksync-era.git", branch = "10e3a3ec50c84b3533af111d532e0b528c0b4966" }
